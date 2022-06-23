@@ -4,6 +4,21 @@
   padding-top: 100px;
 }
 
+.topnav{
+  background-color: #E4F9F5;
+  padding-top: 30px;
+}
+
+.topnav a:hover {
+  background-color: #E4F9F5;
+  color: black;
+}
+
+.topnav a {
+  text-align: justify;
+}
+
+
 .bottom-container{
   background-color: #66BFBF;
   padding: 50px 0 20px;
