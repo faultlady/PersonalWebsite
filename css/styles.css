@@ -189,9 +189,8 @@ a:hover{
   left: 50px;
 }
 
-.top-cloud2{
-  width: 10%;
-  position: absolute;
-  top:200px;
-  left: 300px;
-}
+.top-cloud2 {
+    width: 10%;
+    position: absolute;
+    top: 150px;
+    left: 150px;
